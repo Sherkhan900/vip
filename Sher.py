@@ -1,6 +1,6 @@
 #coding=utf-8
 #!/usr/bin/python2
-#Originally Written By IJAZ AFRIDI CYBER EXPERT
+#Originally Written By Sher Mohammad
 try:
     import os,sys,time,datetime,re,random,hashlib,threading,json,getpass,urllib,cookielib,requests
     from multiprocessing.pool import ThreadPool
@@ -50,8 +50,6 @@ c = "\033[1;32m"
 c2 = "\033[0;97m"
 c3 = "\033[1;31m"
 #MyLogo
-
-\033[0;97m.d88888b  dP                         \033[0;97m
 \033[0;97m88.    "' 88                         
 \033[0;97m`Y88888b. 88d888b. .\033[0;97md8888b. 88d888b. 
  \033[0;97m     `8b 88'  `88 88ooood8 \033[0;97m88'  `88 
