@@ -51,8 +51,6 @@ c2 = "\033[0;97m"
 c3 = "\033[1;31m"
 #MyLogo
 def logo():
-	os.system('echo -e "
-  sSSs   .S    S.     sSSs   .S_sSSs    
  d%%SP  .SS    SS.   d%%SP  .SS~YS%%b   
 d%S'    S%S    S%S  d%S'    S%S   `S%b  
 S%|     S%S    S%S  S%S     S%S    S%S  
